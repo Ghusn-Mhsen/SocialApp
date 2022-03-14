@@ -1,4 +1,4 @@
-# social_app
+# social App #
 
 Social Flutter application.
 Feature : 
